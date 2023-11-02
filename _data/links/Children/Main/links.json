@@ -55,6 +55,31 @@
       "description": "קוד: בריינפופ23",
       "url": "https://il.brainpop.com/",
       "website": "https://il.brainpop.com/"
+    },
+    {
+      "displayName": "Bar21",
+      "name": "Bar21",
+      "shortDescription": "FooBaz",
+      "description": "hello world",
+      "initiativeValidationDetails": "Source: Are you the developer? If not, how did you hear about it?\nLink to reputable source(s) promoting the initiative: [e.g. https://www.israelhayom.co.il/tech/tech-news/iron-swords]\nContact details for members of the initiative's team (so we can contact them directly for validation): [e.g. info@iron-widgets.com]",
+      "url": "N/A",
+      "website": "N/A",
+      "whatsapp": "N/A",
+      "telegram": "N/A",
+      "drive": "N/A",
+      "form": "N/A",
+      "docs": "N/A",
+      "discord": "N/A",
+      "facebook": "N/A",
+      "instagram": "N/A",
+      "tiktok": "N/A",
+      "twitter": "N/A",
+      "initiativeImage": "N/A",
+      "tags": [
+        "Bar21",
+        "FooBaz",
+        "hello world"
+      ]
     }
   ]
 }

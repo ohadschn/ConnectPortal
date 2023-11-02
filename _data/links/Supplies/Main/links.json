@@ -28,6 +28,18 @@
         "אזרחים",
         "קרב"
       ]
+    },
+    {
+      "displayName": "בר2",
+      "name": "Bar2",
+      "shortDescription": "Baz",
+      "description": "hello world",
+      "initiativeValidationDetails": "Source: Are you the developer? If not, how did you hear about it?\nLink to reputable source(s) promoting the initiative: [e.g. https://www.israelhayom.co.il/tech/tech-news/iron-swords]\nContact details for members of the initiative's team (so we can contact them directly for validation): [e.g. info@iron-widgets.com]",
+      "tags": [
+        "מיזם",
+        "בר2",
+        "משלוחים"
+      ]
     }
   ]
 }

@@ -55,6 +55,31 @@
       "description": "קוד: בריינפופ23",
       "url": "https://il.brainpop.com/",
       "website": "https://il.brainpop.com/"
+    },
+    {
+      "displayName": "החמ'ל המתוק",
+      "name": "Bar213111",
+      "shortDescription": "FooBaz",
+      "description": "hello world",
+      "initiativeValidationDetails": "This initiative has been validated by the admin team",
+      "url": "Not Available",
+      "website": "Not Available",
+      "whatsapp": "Not Available",
+      "telegram": "Not Available",
+      "drive": "Not Available",
+      "form": "Not Available",
+      "docs": "Not Available",
+      "discord": "Not Available",
+      "facebook": "Not Available",
+      "instagram": "Not Available",
+      "tiktok": "Not Available",
+      "twitter": "Not Available",
+      "initiativeImage": "Not Available",
+      "tags": [
+        "החמ'ל",
+        "מתוק",
+        "ילדים"
+      ]
     }
   ]
 }

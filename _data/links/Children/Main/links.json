@@ -55,6 +55,17 @@
       "description": "קוד: בריינפופ23",
       "url": "https://il.brainpop.com/",
       "website": "https://il.brainpop.com/"
+    },
+    {
+      "displayName": "hello 'world'?? ' strange #$title",
+      "name": "Defense",
+      "shortDescription": "BarFoo24234234",
+      "description": "BazFoo24234234",
+      "initiativeValidationDetails": "Foo24234234",
+      "tags": [
+        "children",
+        "defense"
+      ]
     }
   ]
 }

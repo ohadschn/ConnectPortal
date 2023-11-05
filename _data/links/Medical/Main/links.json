@@ -41,6 +41,25 @@
       "description": "ניתן על ידי חברת ניתאי שירותי עזרה ראשונה",
       "url": "./docs/ezra-rishona",
       "portal": "./docs/ezra-rishona"
+    },
+    {
+      "displayName": "Fםם",
+      "name": "KvarBaimInitiative",
+      "shortDescription": "The Israeli Ministry of Health is building a list of medical personnel from abroad to volunteer in Israel should the need arise.",
+      "description": "In the event of further strains on the health system, as well as in preparation for future natural or man-made disasters, we invite friends of Israel to add their names to our growing community of medical personnel who stand with Israel. \n\nSign up for the opportunity to receive CME credits in the future, train with Israeli teams, and connect with friends of Israel in your area. \n\nDoctors, nurses, paramedics, and other medical personnel licensed abroad who wish to volunteer should join using the Ministry of Health’s online form, to ensure pre-clearance of medical licenses. \n\n We thank you in advance for signing up - and for standing with Israel.",
+      "initiativeValidationDetails": "Source: official Ministry of health page",
+      "url": "https://survey.gov.il/en/internationalvolunteers?utm_source=go.gov.il&utm_medium=referral",
+      "tags": [
+        "medical",
+        "health",
+        "volunteer",
+        "Israel",
+        "friends of Israel",
+        "medical personnel",
+        "doctors",
+        "nurses",
+        "paramedics"
+      ]
     }
   ]
 }

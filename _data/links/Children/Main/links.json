@@ -55,6 +55,17 @@
       "description": "קוד: בריינפופ23",
       "url": "https://il.brainpop.com/",
       "website": "https://il.brainpop.com/"
+    },
+    {
+      "displayName": "test with 'OPENAI_API_KEY' in secrets @#$#@$!",
+      "name": "Foo'978907",
+      "shortDescription": "Bar978907",
+      "description": "hello world 978907978907",
+      "initiativeValidationDetails": "978907978907978907",
+      "tags": [
+        "איניציאטיבה",
+        "ילדים"
+      ]
     }
   ]
 }

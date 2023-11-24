@@ -49,12 +49,17 @@
       "website": "https://padlet.com/redirect?url=https%3A%2F%2Fschool.booksgiant.com%2Flogin%2Fhe"
     },
     {
+      "displayName": "Foo-babysit",
       "name": "BrainPop",
-      "displayName": "BrainPop",
-      "shortDescription": "תכנים חינוכיים עם קוד חינמי",
-      "description": "קוד: בריינפופ23",
-      "url": "https://il.brainpop.com/",
-      "website": "https://il.brainpop.com/"
+      "shortDescription": "FooFoo-Baz",
+      "description": "helloFoo-world",
+      "tags": [
+        "החמ'ל המתוק",
+        "הילדים/ראשי",
+        "באר213111",
+        "FooBaz",
+        "עולם שלום"
+      ]
     },
     {
       "displayName": "simplesteps",

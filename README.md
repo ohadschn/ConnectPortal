@@ -9,7 +9,7 @@
 ---
 
 ## 📖 **Introduction**
-
+123
 Welcome to a centralized repository of links and resources dedicated to Israel. Utilizing the collaborative power of Git, our goal is to galvanize support for Israel, especially during challenging moments.
 
 ---

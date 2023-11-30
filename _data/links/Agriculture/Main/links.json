@@ -267,6 +267,19 @@
         "פרנסה",
         "מייבאים"
       ]
+    },
+    {
+      "displayName": "test",
+      "name": "lkjhlkjhl",
+      "shortDescription": "lkjhlkjhl",
+      "description": "lkjhlkjhl",
+      "initiativeValidationDetails": "lkjhlkjhl",
+      "url": "http://example.com",
+      "tags": [
+        "לקח",
+        "מבחן"
+      ],
+      "createdAt": "2023-11-30T19:01:58.618Z"
     }
   ]
 }

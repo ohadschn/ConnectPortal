@@ -80,6 +80,22 @@
         "מערכי שיעור לאנשי הוראה"
       ],
       "createdAt": "2023-11-24T15:31:40+02:00"
+    },
+    {
+      "displayName": "משפחה ובע\"ח",
+      "name": "IronDoctors2",
+      "shortDescription": "Foo2-Baz",
+      "description": "Foo2-helloFoo-world",
+      "initiativeValidationDetails": "by @4tal",
+      "initiativeImage": "/images/IronDoctors2-8c2da636-d180-4230-acca-93fee14ab06e.jpg",
+      "tags": [
+        "החמ'ל המתוק",
+        "הילדים/ראשי",
+        "באר213111",
+        "FooBaz",
+        "עולם שלום"
+      ],
+      "createdAt": "2023-12-02T15:01:26.860Z"
     }
   ]
 }

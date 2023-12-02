@@ -82,6 +82,36 @@
         "מזון"
       ],
       "createdAt": "2023-11-28T22:11:51+02:00"
+    },
+    {
+      "displayName": "פו",
+      "name": "foo123",
+      "shortDescription": "askdjhaslkdjh",
+      "description": "lksdjfhsldkjfhsldjkf",
+      "initiativeValidationDetails": "sdsd222",
+      "url": "https://example.com",
+      "initiativeImage": "https://example.com/logo.png",
+      "website": "https://example.com",
+      "phone": "+972541234567",
+      "email": "foo123@example.com",
+      "whatsapp": "+972541234567",
+      "telegram": "https://t.me/foo123",
+      "drive": "https://drive.google.com/open?id=xxx",
+      "form": "https://forms.gle/xxx",
+      "docs": "https://docs.google.com/document/d/xxx",
+      "discord": "https://discord.gg/xxx",
+      "facebook": "https://facebook.com/foo123",
+      "instagram": "https://instagram.com/foo123",
+      "tiktok": "https://tiktok.com/@foo123",
+      "twitter": "https://twitter.com/foo123",
+      "linkedin": "https://linkedin.com/in/foo123",
+      "youtube": "https://youtube.com/channel/xxx",
+      "donation": "https://example.com/donate",
+      "tags": [
+        "פו",
+        "foo123"
+      ],
+      "createdAt": "2023-12-02T15:53:30.633Z"
     }
   ]
 }
